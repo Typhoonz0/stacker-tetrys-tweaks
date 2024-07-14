@@ -18,3 +18,6 @@ Gives themes and hacks for the popular tetris style game Stacker
 
 8 - thats it! click the bottom left corner to toggle hacks. enjoy!
 
+# screenshots
+![image](https://github.com/user-attachments/assets/ca72028e-b5a5-4629-9189-01c235fca79d)
+Sunset Theme
