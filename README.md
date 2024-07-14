@@ -20,12 +20,5 @@ Gives themes and hacks for the popular tetris style game Stacker
 
 # screenshots
 ![image](https://github.com/user-attachments/assets/ca72028e-b5a5-4629-9189-01c235fca79d)
-
-Sunset Theme
 ![image](https://github.com/user-attachments/assets/22dd9737-aedd-407a-86a1-ca21a693086d)
-
-Blue Theme
-
 ![image](https://github.com/user-attachments/assets/5126502f-5920-4666-9389-1fd9ee493692)
-
-Vanilla Theme
