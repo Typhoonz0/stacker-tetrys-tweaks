@@ -6,7 +6,7 @@ Gives themes and hacks for the popular tetris style game Stacker
 
 2 - extract all the files
 
-3 - click the puzzle piece that holds the extensions
+3 - click the puzzle piece that holds the extensions in the address bar
 
 4 - click "manage extensions"
 
