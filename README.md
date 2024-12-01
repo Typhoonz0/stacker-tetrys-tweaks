@@ -2,7 +2,7 @@
 Gives themes and hacks for the popular tetris style game Stacker
 
 # installation
-1 - Click the big green "code" button and download the files (not the image below, the actual buttom above)
+1 - Click the big green "code" button and download the files (not the image below, the actual button above)
 
 ![image](https://github.com/user-attachments/assets/bc995a84-b741-4f8d-9e31-585554b23e91)
 
